@@ -1,3 +1,5 @@
+// This utility will check craigslist.com for a specified product listing and send text message to someone subscribed 
+
 // you have to add your twilio account details here
 var twilio = require('twilio')('ACCOUNT_SID', 'AUTH_TOKEN');
  
